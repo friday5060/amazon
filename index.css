@@ -1,0 +1,58 @@
+.img-small{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    margin-right: 5px;
+}
+.no-margin{
+    padding: 0;
+    margin:0 ;
+}
+@media(max-width:769px){
+.heading-text{
+    font-size: 10px;
+}
+}
+.sm-text{
+font-size: 8px;
+}
+.pic{
+    height: 14px;
+    width: 14px;
+}
+.cart{
+    height: 30px;
+    width: 30px;
+    margin-left: 60px;
+}
+.firstp{
+    height: 270px;
+    width: 300px;
+}
+.secondp{
+height: 200px;
+width: 300px;
+}
+.secondphight{
+    height: 50px;
+    width: 50px;
+}
+.thirdpics{
+    height: 100px;
+    width: 100px;
+}
+.see{
+    text-align: center;
+}
+.signup{
+    border-radius: 5px;
+    margin-right: 600PX;
+    margin-left: 600px;
+    background-color: yellow;
+}
+.footer{
+    background-color: black;
+}
+.color{
+    color: white;
+}
